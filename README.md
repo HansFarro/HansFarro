@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Hans
-I really enjoy developing applications . I also enjoy learning languagues ,libraries and frameworks such as Python, JavaScript ,React and React Native.
+I really enjoy developing applications . I also enjoy learning programming languagues ,libraries and frameworks such as  Python, JavaScript ,React and React Native.
 
 ## Skills: 
-* ⚛ React
+* ⚛ React , Angular
+* 🛠 Java y Python
 * 📱 React Native
 * 🖥 HTML ,CSS ,JS
 - 🔭 I’m currently working on IT projects. 
