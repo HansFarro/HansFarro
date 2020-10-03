@@ -3,7 +3,7 @@ I really enjoy developing applications . I also enjoy learning programming langu
 
 ## Skills: 
 * ⚛ React , Angular
-* 🛠 Java y Python
+* 🛠 Java and Python
 * 📱 React Native
 * 🖥 HTML ,CSS ,JS
 - 🔭 I’m currently working on IT projects. 
