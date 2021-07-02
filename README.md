@@ -1,7 +1,7 @@
 ## Hello there 👋
 My name is Hans Farro, I'm from Peru.
 
-## Skills: 
+## Skills
 * ♾ Docker & Kubernetes.
 * ☁ AWS, Azure, Terraform, Ansible, all cloud technologies.
 * 🛠 Python, NodeJS & Java.
